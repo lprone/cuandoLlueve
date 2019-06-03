@@ -1,0 +1,10 @@
+ 
+API_KEY = ""
+
+DB_HOST = ""
+DB_DATABASE = ""
+DB_USER = ""
+DB_PASSWORD = ""
+
+TEODELINA_LONG = 
+TEODELINA_LAT = 
